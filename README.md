@@ -1,2 +1,2 @@
-# Open-Images-Object-Detection-RVC-2020
-Open Images Object detetction RVC 2020
+# Signboard Translation from Vernacular Languages
+Signboard Translation from Vernacular Languages
